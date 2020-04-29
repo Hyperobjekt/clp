@@ -1,7 +1,8 @@
 ---
-title: "About"
-date: "2019-02-24"
-aboutblock: Linking individuals across historical data sources opens up exciting new research possibilities.
+title: About
+date: 2019-02-24
+aboutblock: Linking individuals across historical data sources opens up exciting
+  new research possibilities
 image: /uploads/census1920.jpg
 ---
 The Census Linking Project allows researchers to create longitudinal datasets from historical US Census records (1850-1940) in order to study processes that unfold over time, such as intergenerational mobility and immigrant assimilation. But linking requires large investments of time and resources, limiting their accessibility to scholars with limited research budgets. With the Census Linking Project, we aim to reduce these barriers by providing customizable linked historical datasets to the broad research community.
